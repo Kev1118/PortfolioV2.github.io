@@ -622,7 +622,7 @@ span{
     flex-wrap: wrap;
     padding: 2rem 9%;
     background: var(--second-bg-color);
-    border-top: 1px solid #dedede;
+    border-top: 1px solid var(--main-color);
 }
 
 .footer-text,
