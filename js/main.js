@@ -26,7 +26,7 @@ window.onscroll = () => {
         document
           .querySelector("header nav a[href*=" + id + "]")
           .classList.add("active");
-        console.log(document.querySelector("header nav a[href*=" + id + "]"));
+        // console.log(document.querySelector("header nav a[href*=" + id + "]"));
       });
       // active sections fro animtion on scroll
       sec.classList.add("show-animate");
